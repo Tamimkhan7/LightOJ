@@ -1,0 +1,1 @@
+{"name":"Local: Lcm","url":"/home/tamim/Desktop/LightOJ/Lcm.cpp","tests":[{"id":1726176210022,"input":"2\n94635 99735\n91752 95402\n","output":"LCM = 629228115\nLCM = 4376662152\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tamim/Desktop/LightOJ/Lcm.cpp","group":"local","local":true}
